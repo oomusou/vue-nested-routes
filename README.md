@@ -1,3 +1,3 @@
 ## Vue nested route demo
 
-https://oomusou.io/vue/route/nested-routes/
+https://oomusou.io/vue/router/nested-routes/
